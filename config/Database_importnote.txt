@@ -1,0 +1,1 @@
+Create the database name as "ecomphp" and then import ecomphp.sql.gz file in phpmyadmin.
